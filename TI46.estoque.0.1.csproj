@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{55D7F8E5-F2CC-4BF8-A3DB-2C8C504F4033}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TI46.estoque._0._1</RootNamespace>
+    <AssemblyName>TI46.estoque.0.1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdcProdNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdcProdNovo.Designer.cs">
+      <DependentUpon>AdcProdNovo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdProjetoV1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdProjetoV1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdProjetoV1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdProjetoV1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdProjetoV1DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdProjetoV1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdProjetoV1DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdProjetoV1DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bd_projetoIntegradorDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bd_projetoIntegradorDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardControl.Designer.cs">
+      <DependentUpon>DashboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAdcEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdcEstoque.Designer.cs">
+      <DependentUpon>formAdcEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPagamento.Designer.cs">
+      <DependentUpon>formPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRmvEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRmvEstoque.Designer.cs">
+      <DependentUpon>formRmvEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inicial.Designer.cs">
+      <DependentUpon>inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemCarrinho.cs" />
+    <Compile Include="principal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaLogin.Designer.cs">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCaixa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCaixa.Designer.cs">
+      <DependentUpon>ucCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCliente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCliente.Designer.cs">
+      <DependentUpon>ucCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEscPagamento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEscPagamento.Designer.cs">
+      <DependentUpon>ucEscPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEstoque.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEstoque.Designer.cs">
+      <DependentUpon>ucEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPagCartao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPagCartao.Designer.cs">
+      <DependentUpon>ucPagCartao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPagDinheiro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPagDinheiro.Designer.cs">
+      <DependentUpon>ucPagDinheiro.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdcProdNovo.resx">
+      <DependentUpon>AdcProdNovo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardControl.resx">
+      <DependentUpon>DashboardControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAdcEstoque.resx">
+      <DependentUpon>formAdcEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPagamento.resx">
+      <DependentUpon>formPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRmvEstoque.resx">
+      <DependentUpon>formRmvEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inicial.resx">
+      <DependentUpon>inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="telaLogin.resx">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCaixa.resx">
+      <DependentUpon>ucCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCliente.resx">
+      <DependentUpon>ucCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEscPagamento.resx">
+      <DependentUpon>ucEscPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEstoque.resx">
+      <DependentUpon>ucEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPagCartao.resx">
+      <DependentUpon>ucPagCartao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPagDinheiro.resx">
+      <DependentUpon>ucPagDinheiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bdProjetoV1DataSet.xsc">
+      <DependentUpon>bdProjetoV1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdProjetoV1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdProjetoV1DataSet.xss">
+      <DependentUpon>bdProjetoV1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet1.xsc">
+      <DependentUpon>bdProjetoV1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdProjetoV1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdProjetoV1DataSet1.xss">
+      <DependentUpon>bdProjetoV1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet2.xsc">
+      <DependentUpon>bdProjetoV1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdProjetoV1DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdProjetoV1DataSet2.xss">
+      <DependentUpon>bdProjetoV1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet3.xsc">
+      <DependentUpon>bdProjetoV1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bdProjetoV1DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdProjetoV1DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdProjetoV1DataSet3.xss">
+      <DependentUpon>bdProjetoV1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bd_projetoIntegradorDataSet.xsc">
+      <DependentUpon>bd_projetoIntegradorDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bd_projetoIntegradorDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bd_projetoIntegradorDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bd_projetoIntegradorDataSet.xss">
+      <DependentUpon>bd_projetoIntegradorDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caixa %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico-de-barras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caixa-registradora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\painel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sombra-de-usuario-masculino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urano1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vecteezy_line-shadow-effect-png_21104595.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

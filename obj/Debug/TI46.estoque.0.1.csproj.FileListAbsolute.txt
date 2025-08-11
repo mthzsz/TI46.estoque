@@ -1,0 +1,106 @@
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\Downloads\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\source\repos\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.telaLogin.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.telaLogin.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formPagamento.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formEscolherProdutoAdc.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formPagamento.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.telaLogin.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.AdcProdNovo.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.AdcProdNovo.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCliente.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCliente.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEscPagamento.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagDinheiro.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEscPagamento.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagDinheiro.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagCartao.resources
+C:\Users\matheus.pmacena\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagCartao.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formRmvEstoque.resources
+C:\Users\pinhe\OneDrive - SENAC - SP\Projeto.04.12.24\Projeto Integrador\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.DashboardControl.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe.config
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\bin\Debug\TI46.estoque.0.1.pdb
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.AssemblyReference.cache
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe.config
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.AdcProdNovo.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.DashboardControl.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formAdcEstoque.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formPagamento.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.formRmvEstoque.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.inicial.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.Properties.Resources.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.telaLogin.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCaixa.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucCliente.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEscPagamento.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucEstoque.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagCartao.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque._0._1.ucPagDinheiro.resources
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.GenerateResource.cache
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.csproj.CoreCompileInputs.cache
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.exe
+C:\Users\pinhe\OneDrive\Documentos\TI46.estoque.0.1\TI46.estoque.0.1\obj\Debug\TI46.estoque.0.1.pdb

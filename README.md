@@ -41,7 +41,7 @@ O sistema oferece uma interface prática e funcional para o gerenciamento de pro
 ## Autor
 
 Matheus Pinheiro da Macena
-📧 seuemail@exemplo.com  
+📧 pinheiromatheusgg@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-pinheiro100/)  
 
 ---
